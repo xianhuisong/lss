@@ -1,0 +1,4 @@
+google-cloud-firestore==1.9.0
+google-cloud-bigquery==2.1.0
+functions-framework==2.0.0
+google-cloud-pubsub==2.1.0
