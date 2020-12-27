@@ -4,6 +4,8 @@ Fire Store Schema:
 logName="projects/cf-fs-project-299907/logs/cloudaudit.googleapis.com%2Fdata_access"
 resource.type="bigquery_resource"
 
+{"job_id":"1001"}
+
 job_log:
 {
 	job_id:int,
